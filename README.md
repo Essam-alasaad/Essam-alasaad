@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Essam 👋
 
-<!--
-**Essam-alasaad/Essam-alasaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Data Analyst eager to empower strategy through data. With a solid background in marketing communication and advertising, I bring a unique perspective to uncovering insights and telling stories with numbers.
 
-Here are some ideas to get you started:
+Currently, I’m enrolled in a Data Analysis Training Program, sharpening my skills and diving deeper into data-driven decision making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I get genuinely excited when I connect the dots and find meaningful insights hidden in the data.
+
+---
+
+## Skills & Tools
+
+- **Programming & Querying:** Python, SQL  
+- **Data Visualization:** Tableau, Spreadsheets, Looker Studio  
+- **Data Management & Warehousing:** Database & Data Warehouse Management, Snowflake, BigQuery, Databricks, dbt  
+- **Marketing & Analytics Tools:** Google Ads, Google Tag Manager, Google Analytics  
+
+---
+
+## Projects
+
+Here's an examples of my work:
+
+- **TravelTide Customer Segmentation** – Segmented customer groups and assigned perk to each one of them using SQL and Tableau
+
+---
+
+## Contact Me
+
+Feel free to reach out via:
+
+- 📧 Email: essam.alasaad94@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/essam-al-asaad
+
+---
+
+I believe in effective communication built on psychology and great design — making data understandable and actionable.
+
+Thanks for visiting my profile!
