@@ -11,7 +11,7 @@ I get genuinely excited when I connect the dots and find meaningful insights hid
 ## Skills & Tools
 
 - **Programming & Querying:** Python, SQL  
-- **Data Visualization:** Tableau, Spreadsheets, Looker Studio  
+- **Data Visualization:** Tableau, Spreadsheets, Looker Studio, Python
 - **Data Management & Warehousing:** Database & Data Warehouse Management, Snowflake, BigQuery, Databricks, dbt  
 - **Marketing & Analytics Tools:** Google Ads, Google Tag Manager, Google Analytics  
 
